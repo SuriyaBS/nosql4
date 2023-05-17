@@ -1,9 +1,5 @@
-## MongoDB CRUD in Node.js - Example / Demo code
 
-## What is this?
-Demo code that excercises MongoDB Create Read Update Delete (CRUD) operations with the mongoose npm module
 
-![Alt text](/screenshots/mongo_read.png?raw=true)
 
 ## Contains
 - /config = mongo connection config (sample)
@@ -146,5 +142,3 @@ For more information on Mongoose:
 https://www.npmjs.com/package/mongoose
 
 
-
-### EOF Readme.
