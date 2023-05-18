@@ -28,7 +28,7 @@ See https://docs.mongodb.com/manual/installation/
 
 ### Clone Repo an install module dependencies
 ```
-git clone https://github.com/ajyounguk/mongodb-crud-demo
+git clone https://github.com/SuriyaBS/nosql4
 cd mongodb-crud-demo
 npm install
 ```
