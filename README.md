@@ -1,7 +1,7 @@
 
 
 
-## Contains
+## This Project Contains
 - /config = mongo connection config (sample)
 - /controller = controller code with routes and DB operations in personController.js. and DB setup+purge API in setupController
 - model = person DB data model
